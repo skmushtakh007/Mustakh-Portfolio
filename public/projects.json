@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "title": "Genius",
+      "category": "Full stack development",
+      "image": "images/project-1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Auto-Record-AI",
+      "category": "Front End development",
+      "image": "images/project-2.png"
+    },
+    {
+      "id": 3,
+      "title": "Next-Auth",
+      "category": "Full Stack Authentication",
+      "image": "images/project-3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Score-Dekho",
+      "category": "Applications",
+      "image": "images/project-3.jpg"
+    }
+   
+  ]
+  

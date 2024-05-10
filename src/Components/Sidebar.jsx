@@ -8,14 +8,14 @@ const Sidebar = () => {
       <div className="sidebar-info">
         <figure className="avatar-box">
           <img
-            src={"/public/images/SkMustakh.jpeg"}
-            alt="Richard hanrick"
+            src={"/images/SkMustakh.jpeg"}
+            alt="Mustakh Shaikh"
             width="80"
           />
         </figure>
 
         <div className="info-content">
-          <h1 className="name" title="Richard hanrick">
+          <h1 className="name" title="Mustakh Shaikh">
             Mustakh Shaikh
           </h1>
           <p className="title">Software Developer</p>
@@ -37,7 +37,7 @@ const Sidebar = () => {
             </div>
             <div className="contact-info">
               <p className="contact-title">Resume</p>
-              <a href="/public/images/SkMustakh_Resume.pdf" download className="contact-link">
+              <a href="/images/SkMustakh_Resume.pdf" download className="contact-link">
                 SkMustakh_Resume
               </a>
             </div>

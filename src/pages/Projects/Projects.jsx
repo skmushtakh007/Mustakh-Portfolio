@@ -1,6 +1,7 @@
 import React from 'react'
 import { useState, useEffect } from 'react';
 import { FaRegEye } from 'react-icons/fa';
+
 const Projects = () => {
   // State to store project data and filtered projects
   const [projects, setProjects] = useState([]);
@@ -70,7 +71,16 @@ const Projects = () => {
                   <div className="project-item-icon-box">
                    <FaRegEye  /> 
                   </div>
-                  <img src={project.image} alt={project.title} loading="lazy" />
+                  <img src={project.image} alt={project.title} loading="lazy" 
+                  style={{display:'flex',
+                  flexDirection:"column",
+                  height:'200px',
+                  width:'250px',
+                  flexGrow:'1'
+
+
+                  }}
+                  />
                 </figure>
                 <h3 className="project-title">{project.title}</h3>
                 <p className="project-category">{project.category}</p>

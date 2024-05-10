@@ -1813,4 +1813,8 @@
     border-radius: 9px;
   }
 
-  
+  .size{
+    display: flex;
+    height: 200px;
+    width: 300px;
+  }

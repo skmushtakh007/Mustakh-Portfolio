@@ -11,7 +11,7 @@ const ServiceData =
     },
     {
       "title": "DSA",
-      "icon": "/public/images/DSA.webp",
+      "icon": "/images/DSA.webp",
       "description": "Data Structures and Algorithms (DSA) refer to the study of methods for organizing and storing data and the design of procedures (algorithms) for solving problems, which operate on these data structures."
     },
     {
@@ -21,7 +21,7 @@ const ServiceData =
     },
     {
       "title": "AZURE",
-      "icon": "/public/images/azure.png",
+      "icon": "/images/azure.png",
       "description": "Azure is comprehensive and widely used cloud computing platform provided by Microsoft."
     }
   ];
